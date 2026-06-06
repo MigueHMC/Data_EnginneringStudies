@@ -1,0 +1,25 @@
+2026-06-06 17:52:29,915 - INFO - Pipeline iniciado
+2026-06-06 17:52:30,916 - INFO - Extração concluída
+2026-06-06 17:52:31,916 - INFO - Transformação concluída
+2026-06-06 17:52:32,917 - INFO - Carga concluída
+2026-06-06 17:52:32,917 - INFO - Pipeline finalizado em 3.00 segundos
+2026-06-06 17:52:42,937 | INFO | ====================================================================================================
+2026-06-06 17:52:42,937 - INFO - ====================================================================================================
+2026-06-06 17:52:42,937 | INFO | pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | evento=INICIO_PIPELINE | data_execucao=2026-06-06 17:52:42
+2026-06-06 17:52:42,937 - INFO - pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | evento=INICIO_PIPELINE | data_execucao=2026-06-06 17:52:42
+2026-06-06 17:52:42,938 | INFO | pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | etapa=EXTRACAO | evento=INICIO
+2026-06-06 17:52:42,938 - INFO - pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | etapa=EXTRACAO | evento=INICIO
+2026-06-06 17:52:43,940 | INFO | etapa=EXTRACAO | status=SUCESSO | duracao_segundos=1.00 | quantidade_registros=3
+2026-06-06 17:52:43,940 - INFO - etapa=EXTRACAO | status=SUCESSO | duracao_segundos=1.00 | quantidade_registros=3
+2026-06-06 17:52:43,941 | INFO | pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | etapa=TRANSFORMACAO | evento=INICIO
+2026-06-06 17:52:43,941 - INFO - pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | etapa=TRANSFORMACAO | evento=INICIO
+2026-06-06 17:52:44,942 | INFO | etapa=TRANSFORMACAO | status=SUCESSO | duracao_segundos=1.00 | quantidade_registros=3
+2026-06-06 17:52:44,942 - INFO - etapa=TRANSFORMACAO | status=SUCESSO | duracao_segundos=1.00 | quantidade_registros=3
+2026-06-06 17:52:44,943 | INFO | pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | etapa=CARGA | evento=INICIO
+2026-06-06 17:52:44,943 - INFO - pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | etapa=CARGA | evento=INICIO
+2026-06-06 17:52:45,944 | INFO | etapa=CARGA | status=SUCESSO | duracao_segundos=1.00 | quantidade_registros=3
+2026-06-06 17:52:45,944 - INFO - etapa=CARGA | status=SUCESSO | duracao_segundos=1.00 | quantidade_registros=3
+2026-06-06 17:52:45,945 | INFO | pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | evento=FIM_PIPELINE | status=SUCESSO | duracao_total_segundos=3.01
+2026-06-06 17:52:45,945 - INFO - pipeline_id=a7064309-3f72-4c82-bbf2-e88340257c1d | evento=FIM_PIPELINE | status=SUCESSO | duracao_total_segundos=3.01
+2026-06-06 17:52:45,945 | INFO | ====================================================================================================
+2026-06-06 17:52:45,945 - INFO - ====================================================================================================
